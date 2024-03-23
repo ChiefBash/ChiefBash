@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  These are the main programming languages and tools that I use for my projects. Some are used a lot more than others; it just depends. Specific tools used will be included in the <b><i>readme.md</i></b> file of the repository.
+  These are the main programming languages and tools that I use for my projects whether it'd be physcially or for research purposes. Some are used a lot more than others; it just depends. Specific tools used will be included in the <b><i>readme.md</i></b> file of the repository.
 </p>
 
 <img align="left" alt="Chrome" title="Chrome" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg"/>
@@ -33,6 +33,7 @@
 <img align="left" alt="Notion" title="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
+<img align="left" alt="Stack Overflow" title="Stack Overflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"/>
 <img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
 <img align="left" alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
