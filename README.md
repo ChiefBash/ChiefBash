@@ -4,8 +4,6 @@
   <img src="https://i.imgur.com/pPWpsLK.png" alt="ChiefBash Banner">
 </p>
 
-**`IT/Digital Hobbyist`**
-
 <p>
   From an early age, I've always had a passion for all things IT and technology in general; everything from working with computers, routers, switches and Raspberry Pis, to learning how to program in various languages. All of my past and current coding projects were built from scratch (everything from planning to coding and designing) and some are exclusively for educational purposes only. Repositories used for educational purposes will include a disclaimer in the <b><i>readme.md</i></b> file.
 </p>
