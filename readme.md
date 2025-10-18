@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/chiefbash"><img width="50px" alt="YouTube" title="YouTube" src="https://i.imgur.com/BleWj9z.png"></a>
+  <a href="https://youtube.com/@ChiefBash"><img width="50px" alt="YouTube" title="YouTube" src="https://i.imgur.com/BleWj9z.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/chiefbash_"><img width="40px" alt="X" title="X" src="https://i.imgur.com/TX7Th37.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
