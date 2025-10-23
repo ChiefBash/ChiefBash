@@ -1,20 +1,14 @@
 <!-- Bio Section -->
 
-<p align="center">
-  <img src="https://i.imgur.com/pPWpsLK.png" alt="ChiefBash Banner">
-</p>
+<p align="center"><img src="https://i.imgur.com/pPWpsLK.png" alt="ChiefBash Banner"></p>
 
-<p>
-  From an early age, I've always had a passion for all things IT and technology in general; everything from working with computers, routers, switches and Raspberry Pis, to learning how to program in various languages. All of my past and current repositories and projects were built from scratch (everything from planning to coding and designing) and some are exclusively for educational purposes only. Repositories used for educational purposes will include a disclaimer in the summary section of the `readme.md` file.
-<p>
+<p align="center">From an early age, I've always had a passion for all things IT and technology in general; everything from working with computers, routers, switches and Raspberry Pis, to learning how to program in various languages. All of my past and current repositories and projects were built from scratch (everything from planning to coding and designing) and some are exclusively for educational purposes only. Repositories used for educational purposes will include a disclaimer in the summary section of the `readme.md` file.<p>
 
 ---
 
 <!-- Socials Section -->
 
-<p align="center">
-  <img src="https://i.imgur.com/0aMExd0.png" alt="Socials Banner">
-</p>
+<p align="center"><img src="https://i.imgur.com/0aMExd0.png" alt="Socials Banner"></p>
 
 <p align="center">
   <a href="https://youtube.com/@ChiefBash"><img width="50px" alt="YouTube" title="YouTube" src="https://i.imgur.com/BleWj9z.png"></a>
